@@ -13,10 +13,13 @@ instructions!
 
 ## Things I Learned
 - jQuery Syntax
+
 	Even though jQuery is not used very often ever since ES6 came out,
 	I think it's useful to know it since alot of integration testing
 	libraries like Cypress still use it for DOM selection.
+
 - Persistent Game Logic Using AJAX
+
 	Instead of using something more standard like a while loop
 	for implementing game logic, I used asyncronous event listening
 	to flow through the logic of the game. It was interesting to do this, 
