@@ -2,12 +2,12 @@
 This is a simple Simon Says style game written with HTML/CSS/JavaScript 
 that was part of a tutorial from Angela Yu's web development course!
 
+I am adding it here because I wrote the game logic myself and I'm really
+quite proud of it :)
+
 ## How To Play
 Navigate to https://riccardt.github.io/simon-game/ and follow the onscreen
 instructions!
- 
-I am adding it here because I wrote the game logic myself and I'm really
-quite proud of it :)
 
 ## Things I Learned
 - jQuery Syntax
