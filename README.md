@@ -1,4 +1,6 @@
 # Simon Game!
+
+## Description
 This is a simple Simon Says style game written with HTML/CSS/JavaScript 
 that was part of a tutorial from Angela Yu's web development course!
 
